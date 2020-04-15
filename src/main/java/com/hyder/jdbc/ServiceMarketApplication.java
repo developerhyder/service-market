@@ -10,4 +10,5 @@ public class ServiceMarketApplication {
 		SpringApplication.run(ServiceMarketApplication.class, args);
 	}
 
+	
 }
